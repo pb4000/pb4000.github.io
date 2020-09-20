@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Phillip's Github Pages
 
 You can use the [editor on GitHub](https://github.com/pb4000/pb4000.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
