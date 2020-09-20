@@ -1,8 +1,6 @@
 ## Phillip's Github Pages
 
-You can use the [editor on GitHub](https://github.com/pb4000/pb4000.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've been meaning to learn [Jekyll](https://jekyllrb.com/) for a little while now anyways. This is super cool.
 
 ### Markdown
 
@@ -26,11 +24,21 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+And I can put code blocks in for **multiple languages**? This is dope!
+
+```javascript
+const greeting = (name) => {
+    return "Hello there " + name + ", nice to meet you!";
+}
+
+const visitor = prompt("What is your name?");
+
+alert(greeting(visitor));
+```
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pb4000/pb4000.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I am using the Jekyll theme selected in my [repository settings](https://github.com/pb4000/pb4000.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
